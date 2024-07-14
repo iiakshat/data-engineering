@@ -6,7 +6,7 @@ from datetime import datetime
 
 default_args = {
     'owner' : 'akshat',
-    'start_date' : datetime.now()
+    'start_date' : datetime(2024, 7, 13, 10, 00)
 }
 
 def get_data():
